@@ -1,5 +1,6 @@
 
 import Courses from "./components/Courses";
+import Creator from "./components/Creator";
 import FeaturesOverview from "./components/FeaturesOverview";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
@@ -18,6 +19,7 @@ export default function Home() {
       <Courses />
       <LearningPath/>
       <FeaturesOverview/>
+      <Creator/>
       <Testimonials/>
       <Footer />
     </main>
