@@ -8,7 +8,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center gap-2">
           <div className="flex items-center gap-2">
             <Image
-              src="/Image/logo.png"
+              src="/image/logo.png"
               alt="ByteSpace logo"
               width={28}
               height={28}
@@ -59,7 +59,7 @@ export default function Navbar() {
             className="text-white hover:text-lime-accent transition-colors"
           >
             <Image
-              src="/Image/navicon.png"
+              src="/image/navicon.png"
               alt="ByteSpace logo"
               width={28}
               height={28}
@@ -70,7 +70,7 @@ export default function Navbar() {
 
         <button className="md:hidden text-white">
           <Image
-            src="/Image/navicon.png"
+            src="/image/navicon.png"
             alt="ByteSpace logo"
             width={28}
             height={28}
