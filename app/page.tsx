@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 
@@ -7,6 +8,7 @@ export default function Home() {
     <main className="min-h-screen w-full bg-white font-sans overflow-x-hidden">
       <Navbar />
       <Hero/>
+      <Footer/>
     </main>
   );
 }
