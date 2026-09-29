@@ -6,7 +6,7 @@ export default function Hero() {
 
             <div className="absolute top-[25%] -left-6 w-[180px] h-[250px] z-[1]">
                 <Image
-                    src="/Image/Mask Group.png"
+                    src="/image/Mask Group.png"
                     alt=""
                     fill
                     className="object-contain"
@@ -16,7 +16,7 @@ export default function Hero() {
 
             <div className="absolute top-[25%] -right-23 w-[370px] h-[320px] z-[1]">
                 <Image
-                    src="/Image/mg.png"
+                    src="/image/mg.png"
                     alt=""
                     fill
                     className="object-contain"
@@ -26,7 +26,7 @@ export default function Hero() {
 
             <div className="hidden md:block absolute top-[48%] left-[15%] w-[160px] h-[160px] z-[2]">
                 <Image
-                    src="/Image/Frame.png"
+                    src="/image/Frame.png"
                     alt=""
                     fill
                     className="object-contain"
@@ -36,7 +36,7 @@ export default function Hero() {
 
             <div className="absolute bottom-[1%] right-[19%] w-[250px] h-[250px] z-[2]">
                 <Image
-                    src="/Image/Mask Group (1).png"
+                    src="/image/Mask Group (1).png"
                     alt=""
                     fill
                     className="object-contain"
@@ -46,7 +46,7 @@ export default function Hero() {
 
             <div className="absolute top-[49%] right-[16%] w-[120px] h-[120px] z-[2]">
                 <Image
-                    src="/Image/Cone.png"
+                    src="/image/Cone.png"
                     alt=""
                     fill
                     className="object-contain"
@@ -54,9 +54,9 @@ export default function Hero() {
                 />
             </div>
 
-            <div className="hidden md:block absolute bottom-[1.5%] left-[22%] w-[220px] h-[220px] z-[11]">
+            <div className="hidden md:block absolute bottom-[1%] left-[21%] w-[220px] h-[220px] z-[11]">
                 <Image
-                    src="/Image/Cone2.png"
+                    src="/image/Cone2.png"
                     alt=""
                     fill
                     className="object-contain"
@@ -81,7 +81,7 @@ export default function Hero() {
                 <div className="mt-6 flex items-center gap-5 w-[90%] max-w-xl">
                     <div className="flex items-center gap-2.5 flex-1 bg-white rounded-full pl-6  py-2.5">
                         <Image
-                            src="/Image/search.png"
+                            src="/image/search.png"
                             alt="ByteSpace logo"
                             width={28}
                             height={28}
@@ -103,7 +103,7 @@ export default function Hero() {
 
                     <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[550px] h-[280px] md:w-[710px] md:h-[320px] z-[1]">
                         <Image
-                            src="/Image/Ellipse 7.png"
+                            src="/image/Ellipse 7.png"
                             alt=""
                             fill
                             className="object-contain object-bottom"
@@ -113,7 +113,7 @@ export default function Hero() {
 
                     <div className="absolute -bottom-6 left-1/2 -translate-x-1/2 w-[300px] h-[380px] md:w-[360px] md:h-[420px] z-[5]">
                         <Image
-                            src="/Image/hero.png"
+                            src="/image/hero.png"
                             alt="Student with headphones and laptop"
                             fill
                             className="object-contain object-bottom"
@@ -167,7 +167,7 @@ export default function Hero() {
                             <div className="flex -space-x-2">
                                 <div className="w-7 h-7 rounded-full border-2 border-white overflow-hidden">
                                     <Image
-                                        src="/Image/student1.png"
+                                        src="/image/student1.png"
                                         alt="Student"
                                         width={28}
                                         height={28}
@@ -177,7 +177,7 @@ export default function Hero() {
 
                                 <div className="w-7 h-7 rounded-full border-2 border-white overflow-hidden">
                                     <Image
-                                        src="/Image/student2.png"
+                                        src="/image/student2.png"
                                         alt="Student"
                                         width={28}
                                         height={28}
@@ -187,7 +187,7 @@ export default function Hero() {
 
                                 <div className="w-7 h-7 rounded-full border-2 border-white overflow-hidden">
                                     <Image
-                                        src="/Image/student2.png"
+                                        src="/image/student2.png"
                                         alt="Student"
                                         width={28}
                                         height={28}
@@ -197,7 +197,7 @@ export default function Hero() {
 
                                 <div className="w-7 h-7 rounded-full border-2 border-white overflow-hidden">
                                     <Image
-                                        src="/Image/student1.png"
+                                        src="/image/student1.png"
                                         alt="Student"
                                         width={28}
                                         height={28}
@@ -206,7 +206,7 @@ export default function Hero() {
                                 </div>
                                 <div className="w-7 h-7 rounded-full border-2 border-white overflow-hidden">
                                     <Image
-                                        src="/Image/student2.png"
+                                        src="/image/student2.png"
                                         alt="Student"
                                         width={28}
                                         height={28}
@@ -215,7 +215,7 @@ export default function Hero() {
                                 </div>
                                 <div className="w-7 h-7 rounded-full border-2 border-white overflow-hidden">
                                     <Image
-                                        src="/Image/student2.png"
+                                        src="/image/student2.png"
                                         alt="Student"
                                         width={28}
                                         height={28}
@@ -224,7 +224,7 @@ export default function Hero() {
                                 </div>
                                 <div className="w-7 h-7 rounded-full border-2 border-white overflow-hidden">
                                     <Image
-                                        src="/Image/student2.png"
+                                        src="/image/student2.png"
                                         alt="Student"
                                         width={28}
                                         height={28}
