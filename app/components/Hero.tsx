@@ -235,8 +235,6 @@ export default function Hero() {
                                     2K+
                                 </div>
                             </div>
-
-
                         </div>
                     </div>
                 </div>

@@ -14,7 +14,7 @@ export default function Partner() {
       aria-label="Trusted by"
       className="flex w-full items-center justify-center bg-[#F5F5F6] px-6 py-14 sm:py-[72px] lg:h-[202px] lg:py-0"
     >
-      <ul className="mx-auto grid w-full max-w-7xl grid-cols-2 items-center justify-items-center gap-x-6 gap-y-10 sm:grid-cols-5">
+      <ul className="mx-auto grid w-full max-w-7xl grid-cols-1 items-center justify-items-center gap-x-6 gap-y-10 sm:grid-cols-5">
         {partners.map((partner) => (
           <li key={partner.id} className="flex min-w-0 max-w-full items-center justify-center">
             <Image
