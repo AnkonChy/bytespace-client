@@ -1,5 +1,6 @@
 
 import Courses from "./components/Courses";
+import FeaturesOverview from "./components/FeaturesOverview";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import LearningPath from "./components/LearningPath";
@@ -16,7 +17,7 @@ export default function Home() {
       <Partner />
       <Courses />
       <LearningPath/>
-      {/* <FeaturesOverview/> */}
+      <FeaturesOverview/>
       <Testimonials/>
       <Footer />
     </main>
