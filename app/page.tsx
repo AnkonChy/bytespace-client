@@ -2,6 +2,7 @@
 import Courses from "./components/Courses";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
+import LearningPath from "./components/LearningPath";
 import Navbar from "./components/Navbar";
 import Partner from "./components/Partner";
 
@@ -13,6 +14,7 @@ export default function Home() {
       <Hero />
       <Partner />
       <Courses />
+      <LearningPath/>
       <Footer />
     </main>
   );
