@@ -35,7 +35,7 @@ export default function Courses() {
             level: "Beginner",
             price: "$25",
             image:
-                "/image/courses/course1.jpg",
+                "/image/Courses/course1.jpg",
         },
         {
             title: "Build Digital Asset",
@@ -44,7 +44,7 @@ export default function Courses() {
             level: "Beginner",
             price: "$25",
             image:
-                "/image/courses/course1.jpg",
+                "/image/Courses/course1.jpg",
         },
         {
             title: "the Power of Big Data",
@@ -53,7 +53,7 @@ export default function Courses() {
             level: "Beginner",
             price: "$25",
             image:
-                "/image/courses/course1.jpg",
+                "/image/Courses/course1.jpg",
         },
         {
             title: "Balancing Productivity an...",
@@ -62,7 +62,7 @@ export default function Courses() {
             level: "Beginner",
             price: "$25",
             image:
-                "/image/courses/course1.jpg",
+                "/image/Courses/course1.jpg",
         },
         {
             title: "Mastering Money Manage...",
@@ -71,7 +71,7 @@ export default function Courses() {
             level: "Beginner",
             price: "$25",
             image:
-                "/image/courses/course1.jpg",
+                "/image/Courses/course1.jpg",
         },
         {
             title: "From Idea to Startup Succ...",
@@ -80,7 +80,7 @@ export default function Courses() {
             level: "Beginner",
             price: "$25",
             image:
-                "/image/courses/course1.jpg",
+                "/image/Courses/course1.jpg",
         },
     ];
 

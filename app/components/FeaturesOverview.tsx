@@ -62,7 +62,7 @@ function LearnerStage() {
         <ScaleBox width={578} height={551} align="end">
             <div className="absolute left-0 top-0 z-10 h-[383px] w-[371px] rounded-[24px] border border-[#E5E7EB] bg-white">
                 <div className="absolute left-[14px] top-[14px] h-[195px] w-[341px] overflow-hidden rounded-[16px] bg-[#CBD5E1]">
-                    <Image src="/image/courses/course1.jpg" alt="Learn Figma" fill sizes="341px" className="object-cover" />
+                    <Image src="/image/Courses/course1.jpg" alt="Learn Figma" fill sizes="341px" className="object-cover" />
                     <span className="absolute left-[12px] top-[153px] flex h-[29px] items-center rounded-full bg-[#9CA3AF]/60 px-[12px] text-[12px] text-[#4B5563] backdrop-blur-sm">17 Lessons</span>
                     <span className="absolute left-[105px] top-[153px] flex h-[29px] items-center whitespace-nowrap rounded-full bg-[#9CA3AF]/60 px-[12px] text-[12px] text-[#4B5563] backdrop-blur-sm">2 hours 16 mins</span>
                 </div>
