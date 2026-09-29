@@ -5,6 +5,7 @@ import Hero from "./components/Hero";
 import LearningPath from "./components/LearningPath";
 import Navbar from "./components/Navbar";
 import Partner from "./components/Partner";
+import Testimonials from "./components/Testimonials";
 
 
 export default function Home() {
@@ -15,6 +16,8 @@ export default function Home() {
       <Partner />
       <Courses />
       <LearningPath/>
+      {/* <FeaturesOverview/> */}
+      <Testimonials/>
       <Footer />
     </main>
   );
